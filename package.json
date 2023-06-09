@@ -1,0 +1,23 @@
+{
+  "name": "flex-zone",
+  "version": "1.0.0",
+  "description": "Gym website",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Arvind",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.9.0",
+    "react-router-dom": "^6.12.0"
+  }
+}
