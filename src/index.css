@@ -184,7 +184,7 @@ section {
   transition: var(--transition);
 }
 
-.span:hover span {
+.card:hover span {
   background: var(--color-secondary);
   color: var(--color-gray-600);
 }
