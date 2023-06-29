@@ -192,7 +192,7 @@ export const testimonials = [
   },
 ];
 
-/*
+
 
 // gallery data (images for gallery)
 
@@ -233,7 +233,7 @@ export const galleryImages = [
 
 // plans page data
 
-export const memberships = [
+export const plans = [
   {
     id: 1,
     name: "Silver Package",
@@ -384,5 +384,3 @@ export const trainers = [
     ],
   },
 ];
-
-*/

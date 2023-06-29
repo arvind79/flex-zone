@@ -1,0 +1,89 @@
+.trainers__container{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 3rem;
+}
+
+/* media queries for medium devices */
+
+@media screen and (max-width:1024px) {
+
+  .trainers__container{
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+  }
+}
+
+/* media queries for small devices */
+
+@media screen and (max-width:600px) {
+
+  .trainers__container {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+  }
+}
+
+
+
+
+
+/********Trainer Card CSS *********/
+.trainer__card{
+  padding: 1rem;
+  border-radius: 0 2rem;
+}
+
+.trainer__card .trainer__image{
+  border-radius: 0 2rem;
+  overflow: hidden;
+}
+
+.trainer__card h3{
+  margin-top: 2rem;
+}
+
+.trainer__card p{
+  margin-top: 0.5rem;
+}
+
+.trainer__card .trainer__socials{
+  margin: 2rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.trainer__socials a svg{
+  display: block;
+  width: fit-content;
+}
+
+.trainer__socials a{
+  font-size: .9rem;
+  padding: .8rem;
+  border-radius: .7rem;
+  background: var(--color-gray-600);
+  transition: var(--transition);
+}
+
+.trainer__card a {
+  background: var(--color-primary);
+}
+
+.trainer__socials a:hover{
+  background: white;
+  color: var(--color-primary);
+}
+
+
+/* media queries for small devices */
+
+@media screen and (max-width:600px) {
+
+  .trainer__card {
+      width: 90%;
+      margin: 0 auto;
+  }
+}
