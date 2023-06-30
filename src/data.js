@@ -155,7 +155,7 @@ export const testimonials = [
     id: 1,
     name: "Diana Ayi",
     quote:
-      "Shape City is the cleanest and most organized gym I’ve ever seen! I have no words to say how wonderful they are! Shape City has a team of excellence! They have a place for anyone, a plan for any goal, everything is very flexible! I am extremely satisfied with Shape City and the entire team. 1 to 10. They are 11🥇",
+      "Flex Zone is the cleanest and most organized gym I’ve ever seen! I have no words to say how wonderful they are! Shape City has a team of excellence! They have a place for anyone, a plan for any goal, everything is very flexible! I am extremely satisfied with Shape City and the entire team. 1 to 10. They are 11🥇",
     job: "Student",
     avatar: avatar1,
   },
@@ -163,7 +163,7 @@ export const testimonials = [
     id: 2,
     name: "Daniel Vinyo",
     quote:
-      "Since joining Shape City 7 months ago I have lost 25 pounds.  My favorite workouts are in small group.  The trainers can give everyone as much attention as they need.  They also push you to really challenge yourself with every workout. Everyone wants everyone else to succeed and become the best version of themselves.",
+      "Since joining Flex Zone 7 months ago I have lost 25 pounds.  My favorite workouts are in small group.  The trainers can give everyone as much attention as they need.  They also push you to really challenge yourself with every workout. Everyone wants everyone else to succeed and become the best version of themselves.",
     job: "Software Egineer",
     avatar: avatar2,
   },
@@ -171,7 +171,7 @@ export const testimonials = [
     id: 3,
     name: "Edem Quist",
     quote:
-      "I have trained at Shape City for over 3 years.  When I was diagnosed with cancer a year after joining Shape City. Through 1:1 and small group training I have regained my strength and confidence. I feel healthy & strong again.  I find the workouts always motivating & challenging, different workouts every day and the trainers are fantastic! It truly is a fitfam!",
+      "I have trained at Flex Zone for over 3 years.  When I was diagnosed with cancer a year after joining Shape City. Through 1:1 and small group training I have regained my strength and confidence. I feel healthy & strong again.  I find the workouts always motivating & challenging, different workouts every day and the trainers are fantastic! It truly is a fitfam!",
     job: "University Lecturer",
     avatar: avatar3,
   },
@@ -186,7 +186,7 @@ export const testimonials = [
     id: 5,
     name: "Nana Yaa Dankwa",
     quote:
-      "I joined Shape City about 8 months ago and I lost 52lbs.  My favorite thing about their workouts is how much the coaches care and push you.  The best thing working with an accountability coach is their never ending availability to ask questions and get support.   I found their nutritional guidance and meal plans were easy to follow and modify.  I really appreciate everyone.",
+      "I joined Flex Zone about 8 months ago and I lost 52lbs.  My favorite thing about their workouts is how much the coaches care and push you.  The best thing working with an accountability coach is their never ending availability to ask questions and get support.   I found their nutritional guidance and meal plans were easy to follow and modify.  I really appreciate everyone.",
     job: "Pharmacist",
     avatar: avatar5,
   },

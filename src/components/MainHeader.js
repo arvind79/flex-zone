@@ -9,7 +9,8 @@ const MainHeader = () => {
           <h4>#100DaysOfWorkOut</h4>
           <h1>Join The Legends of The Fitness World</h1>
           <p>
-            Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet.
+            Flex Zone is a forward-thinking, luxury fitness club with an emphasis on community and customer experience.
+            We believe that all people should strive to live pain-free, healthy, and well-rounded lives.
           </p>
           <Link to="/plans" className='btn lg'>Get Started</Link>
         </div>

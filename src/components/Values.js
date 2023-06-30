@@ -16,7 +16,7 @@ const Values = () => {
         <div className="values__right">
           <SectionHead icon={<GiCutDiamond />} title="Values" />
           <p>
-            Shape City exists for one reason – To provide a safe environment for our members to challenge themselves and attain the level of Health, Wellness and Vitality that is their birthright. Our coaches are passionate, committed, and will engage with members on all levels to assist them on their journey.
+            Flex Zone exists for one reason – To provide a safe environment for our members to challenge themselves and attain the level of Health, Wellness and Vitality that is their birthright. Our coaches are passionate, committed, and will engage with members on all levels to assist them on their journey.
           </p>
           <div className="values__wrapper">
             {
